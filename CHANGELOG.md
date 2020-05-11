@@ -1,4 +1,9 @@
-## 3.3.0 (Unreleased)
+## 3.3.0 (Draft)
+
+ENHANCEMENTS:
+
+* Adding support for SMS template changes. [#18](https://github.com/terraform-providers/terraform-provider-okta/pull/18) Thanks, [@gusChan](https://github.com/gusChan)! 
+
 ## 3.2.0 (April 03, 2020)
 
 BUG FIXES:
